@@ -9,14 +9,14 @@
 [![HitCount](http://hits.dwyl.com/ULTRA-OP/ULTRA-X.svg)](http://hits.dwyl.com/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+# slgeekshowuserbot
+This is a slgeek show userbot made for telegram. I made this bot with help of all other bots  available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official slgeek show user bot made by [ sl geek show ](https://t.me/slbotzone) 
 
-Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
+Also join [support channel and group](https://github.com/supunmadurangasl) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![sl geek show ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/slbotzone)
 
 -------------------------------------------------
 
@@ -28,7 +28,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@SupunMaduranga/slgeekshow?v=1)
 
 -------------------------------------------------
 
@@ -41,30 +41,30 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 # Cʀᴇᴅɪᴛs 📍
 ## • LEGENDX  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
-### • ULTRA X  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
+### • slgeekshow  »»  <a href="https://github.com/supunmadurangasl" alt="slgeekshow"> <img src="" /></a>
 ### • PROBOYX  »»  <a href="https://github.com/PROBOYX" alt="ProBoy X"> <img src="https://img.shields.io/badge/PROBOY X-625D5D?logo=github" /></a>
 ### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
 ### • ALAIN    »»  <a href="https://github.com/infotechbro" alt="Alain"> <img src="https://img.shields.io/badge/ALAIN-95B9C7?logo=github" /></a>
-### • DEVIL    »»  <a href="https://github.com/lucifeermorningstar" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
+### • supun   »»  <a href="https://github.comsupunmadurangasl/" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
 
 
-### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT🥳
 
 ## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
-<a href="https://telegram.me/UltraXChat"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/UltraX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/slbotzone"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/slbotzone"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tʜᴇ Nᴏʀᴍᴀʟ Wᴀʏ
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/legendx22/LEGEND-BOT
-cd LEGEND-BOT
+git clone https://github.com/https://github.com/supunmadurangasl
+cd slgeekshow
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m ULTRA
+python3 -m slgeekshow
 ```
 
 An example `local_config.py` file could be:
@@ -97,7 +97,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
     - `APP_ID`:   You can get this value from https://my.telegram.org 
     - `API_HASH`:   You can get this value from https://my.telegram.org
-- The ULTRA will not work without setting the mandatory vars.
+- The slgeek show will not work without setting the mandatory vars.
 
 
 # Licence 📋
@@ -108,3 +108,5 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 # ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
 # ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+forked by @supunma
+follow me on youtube-https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA
