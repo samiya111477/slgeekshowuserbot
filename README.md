@@ -16,7 +16,7 @@ This is the one and only official slgeek show user bot made by [ sl geek show ](
 
 Also join [support channel and group](https://github.com/supunmadurangasl) Enjoy Your Bot!!💝
 
-[![sl geek show ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/slbotzone)
+[![sl geek show ℓσgσ](https://telegra.ph/file/eff09bb8db2790b431bbf.jpg)](https://t.me/slbotzone)
 
 -------------------------------------------------
 
